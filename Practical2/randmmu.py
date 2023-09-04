@@ -65,7 +65,7 @@ class RandMMU(MMU):
         self.page_set.add(page_number)
         #print reading or writing
         if self.debug:
-            WorR = "wirtting" if rw_mode == "W" else "reading"
+            WorR = "writing" if rw_mode == "W" else "reading"
             print(f"{WorR}\t{page_number: <16}")
 
 
