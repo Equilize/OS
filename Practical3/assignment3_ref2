@@ -1,0 +1,190 @@
+import socket
+import argparse
+import threading
+from collections import defaultdict
+import time
+
+# Define the initial global state
+global_list_start = None
+global_list_end = None
+pattern_frequency = defaultdict(int)
+global_lock = threading.Lock()
+book_names = {}
+shared_list_lock = threading.Lock()
+time_interval = 2
+
+def insert_data(text, book_identifier, search_pattern):
+    global global_list_start, global_list_end
+    try:
+        shared_list_lock.acquire()
+        # Ensure the data is a string
+        if not isinstance(text, str):
+            raise ValueError("The Data Must Be A String Type")
+
+        new_entry = {
+            'text': text,
+            'book_identifier': book_identifier,
+            'next': None,
+            'book_next': None,
+            'next_search_occurrence': None
+        }
+
+        if global_list_start is None:
+            global_list_start = new_entry
+        else:
+            global_list_end['next'] = new_entry
+
+        if search_pattern in text and global_list_end and global_list_end['next_search_occurrence'] is None:
+            global_list_end['next_search_occurrence'] = new_entry
+
+        global_list_end = new_entry
+
+    except ValueError as ve:
+        print(f"Value error: {ve}")
+    except KeyError as ke:
+        print(f"Key error: {ke}. Check dictionary access.")
+    except Exception as e:
+        print(f"Unexpected error in insert_data: {e}")
+    finally:
+        shared_list_lock.release()
+        print(f"Data: '{text}' is inserted! ")
+
+def manage_client(client_sock, client_num, search_pattern):
+    charset_list = ['utf-8', 'ASCII', 'ISO-8859-1', 'ISO-8859-15', 'windows-1252', 'latin1', 'GBK']
+    book_start = None
+    last_entry = None
+    is_first_line = True
+    book_name = None
+    try:
+        while True:
+            received_data = client_sock.recv(1024)
+            if not received_data:
+                break
+            
+            decoded_data = None
+            charset_found = None
+            for charset in charset_list:
+                try:
+                    decoded_data = received_data.decode(charset)
+                    charset_found = charset
+                    break
+                except UnicodeDecodeError:
+                    continue
+
+            if decoded_data is None:
+                raise ValueError(f"Data from client {client_num} could't be decoded .")
+            
+            # print(f"Data from client {client_num} was decoded using '{charset_found}' charset.")
+            decoded_data = decoded_data.strip()
+            insert_data(decoded_data, client_num, search_pattern)
+
+            hits = decoded_data.count(search_pattern)
+            if hits:
+                global_lock.acquire()
+                pattern_frequency[client_num] += hits
+                global_lock.release()
+
+            new_entry = {
+                'text': decoded_data,
+                'book_identifier': client_num,
+                'next': None,
+                'book_next': None,
+                'next_search_occurrence': None
+            }
+            if book_start is None:
+                book_start = new_entry
+                if is_first_line:
+                    book_name = decoded_data
+                    book_names[client_num] = book_name
+                    is_first_line = False
+            else:
+                last_entry['book_next'] = new_entry
+
+            last_entry = new_entry
+
+    except socket.timeout:
+        print(f"Socket timeout for client {client_num}.")
+    except socket.error as se:
+        print(f"Socket error for client {client_num}: {se}")
+    except UnicodeDecodeError:
+        print(f"Decoding error for client {client_num}. Data might be corrupted.")
+    except ValueError as ve:
+        print(f"Value error for client {client_num}: {ve}")
+    except Exception as err:
+        print(f"An unexpected error occurred for client {client_num}: {err}")
+    finally:
+        client_sock.close()
+        
+        # save_book logic integrated here
+        if book_start:
+            file_name = f"book_{client_num:02d}.txt"
+            try:
+                with open(file_name, 'w') as file:
+                    current_node = book_start
+                    while current_node:
+                        file.write(current_node['text'] + '\n')
+                        current_node = current_node['book_next']
+                print(f"Book '{file_name}' is saved ! ")
+            except IOError:
+                print(f"Error: Can not save book '{file_name}'.")
+            except Exception as e:
+                print(f"Unexpected error when saving book: {e}")
+
+    print(f"Count: '{search_pattern}': {pattern_frequency[client_num]}")
+
+
+def frequency_analysis(search_pattern, duration):
+    previous_time = time.time()
+    while True:
+        current_time = time.time()
+        if current_time - previous_time >= duration:
+            previous_time = current_time
+
+            local_pattern_hits = dict(pattern_frequency)
+            ordered_identifiers = sorted(local_pattern_hits, key=local_pattern_hits.get, reverse=True)
+
+            global_lock.acquire()
+            for book_id in ordered_identifiers:
+                print(f"Book Name    : {book_names.get(book_id)}, Pattern hits : {local_pattern_hits[book_id]}")
+            global_lock.release()
+
+            time.sleep(duration)
+
+
+if __name__ == "__main__":
+    arguments_parser = argparse.ArgumentParser(description="Multi-threaded Server")
+    arguments_parser.add_argument('-l', '--port', type=int, required=True, help="Port number to listen on")
+    arguments_parser.add_argument('-p', '--pattern', type=str, required=True, help="Pattern to search in the text")
+    parsed_args = arguments_parser.parse_args()
+
+    port_num = parsed_args.port
+    search_pattern = parsed_args.pattern
+
+    server_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    server_sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+    server_sock.bind(('0.0.0.0', port_num))
+    server_sock.listen(5)
+    print(f"Server is up on port {port_num}")
+
+    client_num = 0
+
+    for i in range(2):
+        monitor = threading.Thread(target=frequency_analysis, args=(search_pattern, time_interval), daemon=True)
+        monitor.start()
+    try:
+        while True:
+            client_connection, addr = server_sock.accept()
+            client_num += 1
+            print(f"Accepted connection from {addr[0]}:{addr[1]}")
+            client_manager = threading.Thread(
+                target=manage_client,
+                args=(client_connection, client_num, search_pattern),
+                daemon=True
+            )
+            client_manager.start()
+    except KeyboardInterrupt:
+        print("Server is shutting down!")
+    except Exception as err:
+        print(f"An error occurred: {err}")
+    finally:
+        server_sock.close()

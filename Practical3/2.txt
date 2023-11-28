@@ -1,0 +1,1833 @@
+The Conquest of Cancer
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Conquest of Cancer
+
+
+Author: H. W. S. Wright
+
+Contributor: F. G. Crookshank
+
+Release date: October 25, 2023 [eBook #71960]
+
+Language: English
+
+Original publication: London: Kegan Paul, Trench, Trubner & Co, 1925
+
+Credits: Tim Lindell, Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE CONQUEST OF CANCER ***
+
+
+
+
+                        THE CONQUEST OF CANCER
+
+
+
+
+                         TO-DAY AND TO-MORROW
+
+                      _A List of the Contents of
+                       this Series will be found
+                       at the end of this volume_
+
+
+
+
+                                  THE
+                          CONQUEST OF CANCER
+
+                                  BY
+                    H. W. S. WRIGHT, M.S., F.R.C.S.
+
+                        With an Introduction by
+                   F. G. CROOKSHANK, M.D., F.R.C.P.
+
+
+          “_Malum immedicabile cancer._” (OVID, Met. x, 127)
+
+
+                                LONDON
+                KEGAN PAUL, TRENCH, TRUBNER & CO., LTD.
+                     NEW YORK: E. P. DUTTON & CO.
+                                 1925
+
+
+
+
+                     _Printed in Great Britain by
+          F. Robinson & Co., at The Library Press, Lowestoft_
+
+
+
+
+                        THE CONQUEST OF CANCER
+
+
+
+
+                             INTRODUCTION
+
+
+The phrase “Conquest of Cancer”, though perhaps emotive rather than
+scientific, nevertheless implies the existence of a very real and
+important problem. And this problem, it may be confidently affirmed, is
+one that will never be solved, in action, by the efforts of the medical
+profession _alone_. Whatever be the future, and as yet reserved,
+revelations of Science, and whatever the further developments of Art,
+cancer will not cease to exact its toll unless medical science and
+art obtain the intelligent co-operation of an instructed public. It
+is for this reason that it has been thought useful to place before
+the public this little book, written by a practical surgeon who has
+given special attention to the problems of the laboratory. The book
+itself, which not only states in simple language the essential points
+that should be comprehended by the public, but puts forward a plan for
+concerted action, is based upon one of a series of University Extension
+lectures given during the winter of 1922–23, at the Shantung Christian
+University, Tsinan, China, where Mr Wright is actively engaged in the
+Surgical Department of the School of Medicine.
+
+                   *       *       *       *       *
+
+The task of prefacing this essay by some words of introduction
+has devolved upon the present writer, not because he either has,
+or desires to present, any claim to speak with special authority
+concerning Cancer, but by reason of a close personal and professional
+friendship that has led him to appreciate very warmly the knowledge,
+the sincerity, and the disinterestedness that characterize Mr Wright’s
+thought and work. And he is confident that we may accept what has been
+said about Cancer at Shantung as an honest and candid attempt to
+instruct and to construct, in detachment from the pribbles and prabbles
+that have sometimes confused discussion nearer home.
+
+Now, although the public has the undoubted right to demand information
+on this subject, and although, as has been suggested, without admission
+of the public to the arena of discussion little can be done to diminish
+the present mortality from Cancer, yet is there real difficulty in
+communicating knowledge, without engendering unnecessary fear and
+alarm and sending the hypochondriac to those quacks and charlatans who
+diagnose non-existent disease in order that they may reap reward by
+announcing its cure.
+
+Some weaker minds there will always be: so, whenever attention is
+directed towards some public danger, there are those who adopt the
+possible contingency as a peg on which to hang some ragged vestment of
+distracted emotion or thought. Thirty years ago, the insane feared
+the telephone: during the Boer War, many thought that the “scouts were
+after them”; now-a-days lunatics babble of persecution by wireless, by
+Bolsheviks, or even by psycho-analysts. So, in Victorian times, the
+_malades imaginaires_ who then thronged consulting rooms spoke with
+bated breath of Bright’s disease: to-day, the hysterical secretly hope
+to hear the blessed word “Colitis”, and the hypochondriac as secretly
+dread the verdict of “Cancer”!
+
+The task of the medical profession is to enlighten the laymen, that
+their help may be enlisted, and yet to avoid alike exaggeration and
+smooth sayings, false hopes and false fears. Macaulay, in a familiar
+passage, once said that there is nothing more ridiculous than the
+British public in one of its periodical fits of morality. At present,
+the British Public is less concerned than formerly with questions of
+morality, but is very much concerned with questions of health. Perhaps
+it is not so much health that is sought and desired as absence of pain
+and avoidance of death――which is not quite the same thing. But, though
+there is nothing intrinsically ridiculous in seeking the “advancement
+of morality” or the “conquest of disease”, the one, no less than the
+other, may be pursued in a ridiculous and dangerous manner.
+
+The adoption of ill-conceived measures, designed to improve morals or
+to abolish disease, may, and often does entail consequences that are
+even less desirable than the evils it is hoped to combat. While the
+prohibition of the consumption or sale of alcoholic drinks may diminish
+certain ills, it has yet to be shewn that the casting out of devils in
+the name of Beelzebub may not be followed by possession with others yet
+more violent. A few years ago we were adjured to boil all milk, lest
+we became poisoned by certain microbes: we are now told that, if all
+milk be boiled, we are as if deprived of vitamines, and must suffer
+accordingly. Instances might be multiplied; but it should be obvious
+that moral and physical health must be considered, not as physical
+objects, but as relations, or states of equilibrium. Like all states
+of adjustment or equilibrium, they are the result of accommodation:
+of poise and counterpoise. They are not always and everywhere to be
+secured by the throwing of a certain weight into one or other scalepan,
+or by the cutting-off so many inches from the table-leg that seems
+the longest. So much, at least, should be recognised by a seriously
+disturbed public told by the daily press that so many more people
+than formerly now die of cancer; that science has not yet discovered
+the “cause of cancer”; but that all may be well if only we live on
+Nebuchadnezzar food washed down by paraffin.
+
+Mr Wright’s essay, combining as it does a well-balanced and sufficient
+statement of what is known, with the outline of a constructive
+proposition that merits careful consideration, and at least indicates
+to the public the kind of way in which relative safety may be obtained
+under present conditions, seems one that is eminently suitable for
+what may be called general reading. The problem is fairly and lucidly
+presented: the resources of surgery are quietly and reasonably
+demonstrated: and the advantages are shown of exhibiting that kind of
+prudence which leads the business man to seek auditing of his accounts
+and the sportsman to enquire how his score stands. But some words may
+perhaps be added from the standpoint of one who is a physician, and no
+surgeon.
+
+                   *       *       *       *       *
+
+Cancer is a class name given to certain kinds of growths, otherwise
+spoken of as tumours (or swellings) and ulcers, which are, as we say,
+characterised by malignancy. A growth, tumour, or ulcer which is _not_
+malignant is _not_ called a cancer. By malignancy we mean a tendency
+to spread, by local and direct extension (as spreads a fire), or
+by convection, as when sparks fly from a locomotive to a haystack.
+Malignant tumours or ulcers tend to recur when removed, and, in the
+long run, to destroy life.
+
+These general features are associated with certain microscopical
+characters found in the tumours or ulcers, so that the nature of any
+growth――whether malignant or otherwise――can be sometimes determined
+by the surgeon or physician, and sometimes by the pathologist or
+microscopist alone, but, as a rule, is most certainly settled by the
+physician or surgeon acting in conjunction with the microscopist.
+Yet, and this is important, not every cancer does actually destroy
+life. Surgeons of the greatest experience, such as the late Sir Alfred
+Pearce-Gould, have affirmed that undoubted cancers do occasionally
+undergo spontaneous cure, or at least arrest of growth, _even in the
+absence of any treatment_. Again, if excision is practised early, and
+sufficiently extensively, recurrence does not happen, in a certain
+proportion of cases. Finally, pain is no necessary or inevitable
+concomitant of cancer. In many cases pain is absent, or almost so;
+death may be due to mechanical consequences entailed by the growth
+rather than to destruction of any vital or sensitive part.
+
+Now, medical men are in the habit of splitting up the group or class of
+malignant growths (or “cancers”) into two subsidiary groups or classes.
+One of these is named Sarcoma; the other Carcinoma. Sarcoma is the name
+given to a group of malignant growths taking origin in the structures
+and tissues developed from the “middle layer” of the embryo: the
+growths themselves――sarcomata――partake the nature of the tissues formed
+from this middle layer. The other group, of carcinomata, consists of
+growths taking origin in, and partaking the nature of one or other of
+the two remaining embryonic layers and the structures developed from
+them.
+
+These two layers form respectively:
+
+    (1) The skin and related structures, and
+
+    (2) The lining of the tube passing through the body;
+          its backwaters, out-growths and appendages.
+
+It is these two layers which, as Mr Wright so aptly remarks, are in
+direct contact with the outer world. Now, while the carcinomata (which
+constitute the class of cancers chiefly discussed in this book) in
+general affect people who have passed the midpoint of life――those for
+whom, as Rabelais says, it is _midi passé_――the sarcomata, which are
+less common than the carcinomata, are rather more frequently, yet not
+exclusively, found in young people; in those indeed, who have not
+reached life’s apogee. It is important that these facts should be borne
+in mind, for generalisations founded upon the study of carcinomata
+alone cannot be necessarily true in respect of all Cancer, unless the
+use of the term cancer _be restricted_ to the class technically known
+as carcinoma. To say that Cancer can be prevented if constipation
+is avoided is clearly misleading, when we remember that quite young
+children, nay, infants, may be the subject of sarcoma; unless of course
+we define cancer, as some would do, as the kind of growth that, _ex
+hypothesi_, is prevented when constipation is avoided. It is confusion
+of this sort, bred by slovenly expression out of loose thinking, that
+is in great part responsible for the present bewilderment of the public.
+
+Another fertile source of confusion is the obscurity that attends both
+the popular and the professional use of the words “cause”, “causation”,
+and the like. The public demands that “the” cause of cancer be
+discovered, and is prepared to pay generously that this discovery
+be made. Unfortunately neither the public, nor men of science, care
+overmuch to discuss what they mean by cause and causation. This is no
+place in which to trench upon a province unsuccessfully explored by
+Locke, by Hume, and by Kant. Yet it is of vital importance that all
+doctors, scientists, and laymen should recognise two different _uses_
+of these words.
+
+When we speak about “the” cause of a “disease”, in a generalised or
+conceptual sense, as when we say that Koch’s bacillus is “the cause
+of tuberculosis”, we are really defining our concept of the disease
+in terms of _one_ correlative. We are saying that tuberculosis is a
+disease in which Koch’s bacillus is invariably present. A _circulus
+in definiendo_ is only just escaped because we happen to know that,
+if Koch’s bacillus is injected into certain animals, the “disease”
+as we say, develops. Koch’s bacillus is the one constant correlative
+found in all cases of the kind that we agree to call tuberculous,
+by reason of certain clinical and pathological signs that we find.
+Possibly even this statement is not to be taken as absolutely true;
+though it represents what we find it convenient to say. But, when we
+thus declare Koch’s bacillus to be “the” cause of tuberculosis, we
+have by no means exhausted the study of all the correlations that may
+be called causal in respect of _particular_ cases. Of ten cases of
+tuberculosis, each one exhibiting Koch’s bacillus, we may say that _for
+each particular case_ “the” cause of the illness is different.
+
+Thus:
+
+    A. is tuberculous because he was gassed in France;
+
+    B. is tuberculous because he was infected by his sick
+          wife;
+
+    C. is tuberculous because he drank tuberculous milk;
+
+    D. is tuberculous because he worked in an ill-ventilated
+          factory;
+
+    E. because he was exposed to wet and cold; and
+
+    F. because he drank and was dirty.
+
+The difference between a medical cause in the generalised sense, (where
+cause means a defining correlative for a concept), and a medical
+cause in the particular sense (when we seek to find out or state the
+antecedent without which this man would not be as he is here and now)
+is one of enormous importance, and one that should be constantly borne
+in mind when discussion is commenced. It is true that it involves the
+oldest of logical and metaphysical problems in respect of scientific
+thought――the question of universals and particulars; but that does not
+make it any the more easily shirked. Its relevance to the question of
+cancer is this: that the proof of the production of cancer in men or in
+animals _under one set of circumstances_ does not warrant us in saying
+that that set of circumstances _as known to us_ involves _all_ the
+factors without which cancer cannot occur. And, even if research work
+demonstrated that, in every case now called cancer, some parasite or
+growth-form, some irritating factor that can be isolated, does actually
+obtain, _unless it could be shewn that this parasite or factor is never
+found except where there is cancer as we now define it_, we should
+have to proceed to investigate why and how cancer does not always
+occur when this factor is present. Just so are we at present seeking
+to explain why and how, of so many persons exposed to infection by
+Koch’s bacillus, only certain ones do become diseased. If we find that
+only those persons who possess a character that we may call “X” become
+infected, we shall then have to say that, not Koch’s bacillus, but the
+character “X” is “the” cause of tuberculosis. It is thus that science
+progresses: not by making the absolute and positive discoveries that
+the public is taught to expect, but by arranging and rearranging our
+experiential knowledge, as such grows, in terms of so-called laws and
+generalisations, that are found _progressively convenient_. But such
+laws and generalisations are not necessarily the one more “true” than
+the other, _except in relation to the knowledge that they summarize_.
+If such considerations as these were more frequently borne in mind,
+there would be less unconscious deception, less disappointment, and
+greater economy in work and thought.
+
+Explanations of the causation of cancer have been sought in many
+directions; and three chief theories have been set out. The most
+important, and the most interesting from the point of view of the
+practising physician, is that which considers cancer as provoked by
+long continued irritation under certain circumstances. This doctrine
+seems more “true” in respect of the Carcinomata――the cancers of the
+adult and the old, and of tissues in contact with the extra-personal
+world――than it is in respect of the Sarcomata――the cancers of the
+young, and of those inner parts not exposed to irritation by contact
+with the world. Yet sarcomata in real life do often seem to follow
+_injury_, and the tissues in which they form _may_ be obnoxious to
+injurious influences of which we know nothing.
+
+Another view is that cancer may be due to a parasite of some kind or
+another. Certainly, so far as some lower animals are concerned, this is
+true, for certain rat and mice cancers are now known definitely to be
+associated with parasites. But then we may say, and properly, that in
+such cases the parasites are merely acting as do other irritants, and
+are not “specific” causes of cancer.
+
+The third doctrine, or set of doctrines, regards cancers as arising
+when parts of the body (or rather, elements in the tissues of certain
+parts) no longer act in due subordination to the needs of the
+whole organism, but comport themselves “anti-socially”: developing
+irregularly; propagating themselves illegitimately; and so becoming
+parasitic to the commonwealth of the body. Those who hold this
+will admit that, in many cases, this revolutionary tendency is one
+provoked by irritation and the like: that sometimes it is a mere
+manifestation of irregular decay; and that, when it occurs in young
+subjects, it is because some islets of tissue have become misplaced,
+tucked away, ill-formed, and hampered in development, and so liable
+to provoke trouble later under stress of greater or less urgency.
+Such a view has much plausibility; there are flaws in a steel girder;
+there are tucked-in edges in even the best bound book, and there are
+developmental errors in most of us.
+
+Moreover, there is Dr Creighton’s doctrine of physiological resistance.
+A part not put to its proper use is more apt than another to become
+cancerous. Certainly, unmarried women are more liable than are married
+to suffer cancer of the breast or ovary. Yet married women are more
+apt than unmarried to suffer cancer of the womb. Are we to say that
+in these latter there has been physiological misuse, or irritation
+produced by unhealthy child-bearing? So far is the problem removed from
+simplicity!
+
+On the other hand, it is certainly as true as ever, that the gods
+still cancel a sense misused, and, if we leave out of account for the
+moment the cases in which cancer seems due to developmental error――and
+who can say whether even then a child does not suffer vicariously
+for some physiological transgression by its parents?――the doctrine
+that cancer is due to irritation, whether produced by a clay pipe,
+hot drinks, constipation, or crude paraffin, does not really tell us
+much more than _that_. The difficulty is this: _How_ to walk in the
+way of physiological righteousness, and _how_ to preach it, without
+falling into a dogmatism as stupid as unbelief? Mr Wright tells us
+how, in medieval times, the Church declared cancer of the tongue to be
+sometimes a judgment on sinners for their blasphemy. Well, I for one,
+am not prepared to limit the “misuse” that entails physical disease
+and suffering to misuse in the material, or physiological sense.
+Organs, through the nerves of the “sympathetic”, are directly connected
+with the play of emotions and of feeling-states. I am not sure that
+investigation would not shew a correlation――sometimes――between certain
+persistent and voluntary mental states (_morbid_ mental states, that
+is) and the development of cancer in certain organs. The “argument”
+that cancer is infrequent in lunatic asylums, where the majority are
+mindless rather than wrongly thoughtful, evades the question.
+
+The quest for a single causal factor, whose “discovery” will lead us to
+“abolish cancer”, is then, it would seem, just one more hunt for the
+philosopher’s stone. Yet, to use the formula of “right living” does not
+seem to be merely a verbal solution of the difficulty.
+
+If we agree that to live rightly is the best insurance we can make
+against cancer, we are probably stating, as compendiously as possible,
+_all_ we do and shall ever know, in respect of the causation of cancer.
+It is then our duty to ascertain how to live rightly in every sense
+of the word, and we may so come to realise that almost every one of
+what we call the blessings of civilisation has been purchased at the
+expense, in some respect, of right living. For this, heavy interest
+has to be paid, and even the efforts of science to put matters right
+seem too often not more than the borrowing of fresh capital to pay
+off old debts. It is right to call attention to the fact that certain
+“uncivilised” races, who live healthily and naturally in respect of
+food, drink, and sexual activity, do not suffer from cancer. But it is
+wrong to suggest that therefore we should adopt either their dietetic
+or their sexual customs. What is one man’s meat is another man’s
+poison. Adjustment to our surroundings, right living _here and now_ is
+what we need. Though Papuans and Sikhs may be very properly adjusted in
+_their_ contexts, it is not their adjustments that may best suit our
+cases.
+
+This problem――that of right living――is the problem of prevention of
+cancer put upon the broadest basis. But, until or unless we work this
+out, we have to consider how best to avail ourselves of the knowledge
+already in our possession. Herein is one merit of Mr Wright’s plan. He
+tells people what, in his judgment, they can best do, _here and now_.
+It is a plan to be discussed; but, let it be clearly understood, it is
+one submitted by the author for individual consideration and action.
+Supposing it to be found, on analysis and trial, of real value, a cry
+might at once be raised for its putting into execution by central or
+local provision of the necessary facilities: at first for voluntary
+acceptance, then for compulsory adoption. Nothing could be a greater
+error. In matters of health what is advantageous for the individual is
+often not so, or even grossly disadvantageous, for the State.
+
+Let every member of the State have the opportunity to avail himself or
+herself of what Science and Art can do for him: let none who has the
+will suffer because he has not the means. But the too easy provision
+of means for the avoidance of consequences of neglect does, very
+seriously, put a premium on neglect and penalise those who themselves
+make effort in the right direction. Again: hard on individuals
+though it would seem, there is a very real racial advantage in the
+elimination――natural and inevitable, unless we interfere――of those
+who _will not_ take advantage of opportunities offered them. We are
+not automata: we exercise _choice_; when the opportunity of choosing
+rightly is offered us, if then we choose wrongly, we have no right to
+demand escape from the consequences, _at the expense of others_.
+
+At any rate, if the facts relating to Cancer are plainly stated,
+every man has but himself to blame if he shrink from obtaining such
+diagnosis and treatment, as is now available, at the earliest moment.
+It were better still that he avoid from the beginning all what we know
+to be predisposing causes of cancer: all the errors of omission and
+commission in respect of the physiological and spiritual――or physical
+and psychical――functions and relations of his Self.
+
+It is the principle, the pursuit of the unattainable ideal, that really
+counts. The simple injunction to eat greens and take paraffin is the
+physiological counterpart of seeking to make people moral by act of
+Parliament, religious by church-going, and intelligent by attendance at
+evening lectures. But even if we make all possible effort, we cannot
+_all_ hope to escape, and the necessity for seeking early diagnosis
+when things go not well is as imperative as is true the maxim that “A
+stitch in time saves nine”.
+
+There is perhaps one more question that may be touched upon: that of
+the so-called _increase_ of cancer. It is commonly stated that cancer
+is increasing: it is as commonly asked if this is really so. As a
+matter of fact, the question (which we are usually told can be only
+answered by statisticians) is one that statisticians can only answer
+when we have agreed what they are to understand by it. And that is not
+so easy as may be at first thought.
+
+It is certainly true that, in the British Isles, the number of
+deaths certified each year as due to cancer of one form or another
+is gradually and steadily increasing, both absolutely and relatively
+to the population. But then we have in the first place, to consider
+whether cancer is not diagnosed more frequently in ratio to the cases
+seen than was formerly the case, and, in the second, to remember that
+cancer is, on the whole, a disease suffered during the second half of
+life. Now, our population is an older one than it was: the birth-rate
+is falling: so many youths who would now be vigorous men of thirty-five
+to forty lost their lives in the war; and lives are, on the whole,
+longer than they were, owing to a diminishing liability to suffer from
+certain ailments other than Cancer.
+
+Supposing that children ceased to be born, at the same time that the
+Ministry of Health succeeded in “abolishing” all diseases except
+cancer, and the Home Office and Police reduced the probability of death
+from accident, from homicide, and from suicide, to vanishing point.
+Would we not then all die from either “old age” or from “cancer”? If
+so; should we be justified in declaring that cancer had “enormously
+increased” since the successful institution of control of our own
+deaths and other peoples’ births?
+
+We are, indeed, again confronted with the old problem of the one and
+the many, under one of its numberless aspects. From the point of view
+of the statistical bureaucrat, cancer is increasing. That is to say, an
+increasing number of deaths, and an increasing proportion of deaths,
+are every year presented to him, both absolutely and in relation to
+the population. And so many more perforated cards are in consequence
+manipulated by his counting machine.
+
+Can it be said that, for any one reader of these pages, the chances of
+death from cancer are year by year increasing, as are the chances of
+being run over in the London streets? Who can say?
+
+But this is true. We must all die. We are, for the most part, anxious
+to postpone the day of death, and many of us dread, more than aught
+else, a death from cancer.
+
+Effort in the path of right living――if steadily pursued――and the
+intelligent utilization of what Science and Art and Experience have
+to teach, will undoubtedly make for healthier and longer lived
+communities, and will lessen, _for each individual_, the probability
+of dying otherwise than in the fashion thought of by the doctor when
+he ascribes death to “old age”. The problem we are considering becomes
+indeed swallowed up by a still greater one; but, those who profit by
+what Mr Wright has had to say about Cancer, will profit in respect of
+this greater problem as well. Therein, so it seems, lies its greatest
+value.
+
+                                                   F. G. CROOKSHANK
+
+_London, 1925_
+
+
+
+
+                        THE CONQUEST OF CANCER
+
+
+The cure of cancer is now ceasing to become a purely medical problem,
+to be solved by biologists, pathologists and surgeons, and is becoming
+a problem in psychology, and education, to be solved by publicists,
+schoolmasters, and perhaps, when enough people are alive to the facts
+of the situation, by legislators and statesmen.
+
+This may sound a bold thing to say, but I hope to be able to bring
+forward evidence proving that it is at present possible to cure
+seventy-five per cent. of cancer cases with a mortality of under five
+per cent.
+
+Possibly the response to this essay will be that of one of the most
+enlightened persons of my acquaintance who, on seeing my title, said,
+“Of course this is perfectly absurd”, but it was a favourite saying of
+Dr Maguire, a great American surgeon of the nineteenth century, that
+the most useful thing one man can do for his fellows is to see a thing
+clearly, and to say it plainly.
+
+Here is a plain statement, susceptible of the fullest proof. Out of
+every hundred people in our community, ten will in all probability die
+of cancer; and, of those ten, seven or eight could be cured, or their
+disease prevented with the present methods at our disposal. All that is
+required is an intelligent facing of the facts concerning this disease,
+and efficient medical attention.
+
+The average annual deaths during the last eleven years in the United
+Kingdom were 466,000,――nearly half a million people. Of these, 43,000
+were due to cancer; 19,000 males and 24,000 females. Moreover, although
+taken altogether ten per cent. of the population die of cancer, a
+greater proportion of adults so die. I say again that a large proportion
+of these cases is either preventable or curable.
+
+The Executive Committee of the British Empire Cancer Campaign have
+recently published a statement based on the last census. They say that,
+during the year 1921, in Great Britain, of persons over 30 years of
+age, one out of every seven died of cancer.
+
+These figures make it plain that the question is not merely one of
+interest to doctors and scientists; it is of concern to every one of
+us, and to one person in every ten it has direct and very personal
+interest.
+
+Surgery and medicine have very little further to advance along
+technical lines, so far as the type of case we see at present is
+concerned. It is nearly impossible to make operations more extensive
+and thorough than they are at present; and it is unlikely that the
+operative mortality in the average good risk will fall much lower
+than its present very small figure. Other methods of curing cancer do
+not at the moment show promise of producing anything so good as the
+present surgical results. We have therefore to resort to an educational
+campaign for its victims before we can get much further on.
+
+This brings me to the first point to be brought home before any more
+is said――that _early_ cancer and _late_ cancer are, so far as results
+and cures are concerned, two entirely different diseases. A well-known
+English authority, speaking of cancer of the tongue, says: “An early
+superficial cancer on the free part of the tongue should be, and
+is, curable in practically all cases. The general conviction of the
+incurability of cancer is founded on the results of operation on the
+average fairly advanced case and, until this conviction is shaken, I
+fear the public will remain relatively indifferent and pessimistic as
+to the advantages of early treatment. Every surgeon of any experience
+is aware that, as regards its accessibility to treatment, early cancer
+is a totally different disease from even moderately advanced cancer,
+but I am very doubtful as to whether we shall be able to enforce the
+fact by direct statement so long as the treatment of advanced cases
+furnishes the public with so many terrible object lessons in the
+apparent intractability of the disease.”
+
+The problem we have before us, then, is that of changing the whole
+attitude, not only of the physician, but of the patient, to cancer.
+Here is an example of the present point of view:――I have frequently
+heard it said that such and such a patient has a lump, or some
+disquieting symptom or other, but she won’t go to the doctor as she
+is afraid he will say it is cancer. What we have to do is to strip
+this disease of its fear-complex and bring all the facts about it into
+the open. We have to change the attitude of the patient, and often,
+unfortunately, of his doctor, from one of “wait and see” to one of
+“look and see.” Then, and only then, shall we be on the way to curing
+cancer.
+
+The results of the present-day and popular point of view are appalling.
+Somewhere about half the cases of cancer are far too advanced for
+us to think about curing them at the time the patients appear. Of
+the remaining half, approximately two-thirds have about a thirty
+per cent. chance of cure, and the remainder about a sixty per cent.
+chance. These figures are rough estimates based on impressions formed
+in hospital out-patient work, but they will not be found far wrong.
+The heart-breaking part of it is that it is all the result of fear,
+carelessness and crooked thinking, which could be avoided in a large
+percentage of the cases.
+
+Yet there are signs that we are entering on a new phase, and that a
+realisation of the importance of early diagnosis is slowly permeating
+through the medical profession. In America we see an increasing
+insistence on the use of detailed and specialised laboratory methods
+for exact diagnosis; and in Great Britain there is in existence, at
+St. Andrew’s University, a complete medical unit, under the supervision
+of Sir James Mackenzie, for the investigation of the early symptoms of
+disease. The establishment of this institute is, I think, one of the
+most important advances that medicine has made in the last twenty-five
+years, for it is a milestone on the road to progress, a concrete and
+tangible expression of a changed point of view.
+
+Let us for the moment leave generalities and give some few minutes to
+more detailed consideration of the disease; first in outline, and then
+in respect of some particular cases.
+
+Cancer is a degeneration. It most often occurs at that period of life
+when our biological work is done, and, as far as Nature is concerned,
+we are of no use. From _her_ point of view we are on this planet to
+reproduce our kind and, when we are past doing that, our tissues begin
+to lose their firm hold on their appointed form, and stray from their
+former habit of exactly reproducing _their_ kind when attempting to
+recover from any kind of injury. Cancer is commonest in those organs
+which have soonest finished their work――the reproductive organs of
+women; and, after these, it appears most often in that organ so much
+more abused than any other――the stomach.
+
+The greatest number of cases appears at or after fifty, and therefore
+at that age it behoves us, not to _wait and see_ whether we shall get
+it or not, but to _look and see_ that we have not got it, for of people
+who survive till the age of fifty, a great many more than ten per cent.
+die of cancer.
+
+From the biological point of view cancer presents another interesting
+feature. It used to be generally stated by biologists that acquired
+characteristics cannot be transmitted. In cancer we see a cell taking
+on foreign characteristics in response to some environmental stimulus
+and transmitting these to its offspring until the organism from which
+it sprang is destroyed.
+
+To sum up, the tissues from which cancer grows, in their normal
+process of repair tend to reproduce themselves more or less exactly,
+or if the injury is too gross, they are replaced by scar tissue; but
+when we reach the age at which their biological work is done, there
+is a tendency to atypical reproduction, in which an atypical cell
+continues to reproduce itself atypically and grows at the expense of
+the organism, eating into or eroding it as it enlarges, till it finally
+kills the host on which it preys.
+
+This will serve as a general definition, but, if we wish to be a little
+more concrete, we must plunge for a while into the realms of pathology,
+in order to get a clearer idea of what cancer means.
+
+Our body is made up of three layers of tissues; each of these has its
+separate function, and, within small limits, its own way of reacting
+to long continued injury. Early in our prenatal development, these
+three layers can be distinguished, and each of these later produces
+its own type of tissue, and under appropriate conditions, its own
+type of malignant tumour. From the outer and inner layers develop the
+cells which actually touch the outside world, that is to say, which
+cover the exterior of our body and provide our inner lining, or mucous
+membranes. From the inner layer is developed glands which are, so to
+speak, ingrowths from this layer, and it is the tumours arising from
+this latter tissue layer which mostly concern us now, and which are the
+cause of so much human suffering.
+
+These Carcinomata, as they are called, all have something in common,
+alike from the point of view of their recognition, pathology and
+onset. They begin in some tissue which has previously been the seat
+of disease, usually some chronic inflammatory process which has
+been present for years, and which may have healed up and broken
+down many times. When this occurs on open surfaces, such as the
+tongue, intestinal mucous membrane, or lip, we can watch the gradual
+transformation of the disease from a simple chronic inflammatory
+process to that of a malignant growth.
+
+Let us take, for instance, the case of cancer of the lip. We see an
+old man who for years has been smoking a clay pipe. The stem of the
+pipe gets shorter as the years go by, and consequently, as he smokes
+it, hotter and hotter. One day he notices that his lip is cracked, the
+crack being just on that part with which he habitually holds his pipe.
+If we were to look at this under the microscope we should just see
+that the mucous membrane was broken at this point. Perhaps he stops
+smoking for a day or two till his lip has healed, and then continues
+to smoke again. Soon, from force of habit, the pipe returns to its
+old comfortable spot; and again the lip cracks. This time it is not
+so painful, and takes longer to heal. This cracked lip may be present
+for years, and if, after some time, we were to look at it again
+under the microscope, we should see a very different kind of thing.
+All round the crack would be congregated thousands of white blood
+cells, trying vainly to assist the sore to heal, but, as well as this,
+we should notice that, in their efforts to bridge the gap of broken
+mucous membrane, the delicate epithelial cells which line our lips had
+increased in number and thickness. We might also see that they had a
+tendency to grow down to the deeper layers of the lip.
+
+If we were to persuade our friend to give up his clay pipe and indulge
+in some other form of smoking, or even to have a few teeth extracted
+so that his pipe was more comfortable in some other position, the
+small ulcer would, given time and a little attention, heal up quite
+satisfactorily. But, with all the perversity of human nature, he will
+not; he only has a small sore: it doesn’t hurt him, or anyone else, so
+why should he worry?
+
+We pass on another few years, and our friend reappears. This time his
+sore has a more permanent appearance about it. It is hard, and somehow
+looks as if it goes deep, and has a tendency to bleed. We look at it
+and tell him that he ought to let us cut out that small sore, but as
+a rule he won’t allow this procedure; he wants medicine to take for
+it, an ointment to put on it. If we were again to have a microscopical
+section at our disposal we should see a very different state of things.
+Those epithelial cells which before were just thickened, and a little
+angry looking, have at last wakened up and begun to grow. They have
+branched out and grown deeper into the lip; there is nothing to check
+them since they have thrown aside all the restraints imposed by the
+necessity of keeping to their original form, and have, so to speak, got
+out of the control of the usual mechanisms which the body possesses
+for keeping cells in their proper place. The only thing we can do for
+the patient is either to find some means to kill them――an end which
+has not yet been achieved, as what will kill them will also kill the
+patient――or to cut away the tissue in which they have grown, leaving a
+wide margin around the farthest palpable edge of the ulcer. If this is
+done, the patient can be assured of a permanent cure. But if he will
+not believe you, as he often will not, possibly because you are not
+willing to stake your reputation on the ulcer being malignant, or the
+_certainty_ of its cure by surgery, he will go away for another year
+or so. One day he appears again because his ulcer has been showing a
+tendency to bleed and has got a bit bigger lately; also he has noticed,
+while shaving, a small hard lump in his neck which he feels as the
+razor goes over it. He still has no pain and no discomfort whatever.
+We look at this and tell him that he has to undergo an operation, both
+on his lip and on his neck, and that he has got cancer. We remove the
+ulcer and every gland that we can find in a large area around, but
+we can only assure him that he has a one in five or three chance of a
+permanent cure whereas, if he had taken our previous advice, we could
+have promised him a permanent cure in between ninety and one hundred
+per cent. of chances, according to the age of the disease.
+
+If we now use our microscope, we see that the undisciplined epithelial
+cells have penetrated the lymphatic capillaries which are present
+in all our tissues, and have followed them until they reach their
+destination, the nearest glands. What will happen next depends on time.
+The growth may spread to more glands, or even outside the glands, and
+the only course we have open to us is to remove the primary growth,
+again with a wide margin, irrespective of what disfigurement may
+result, together with its corresponding lymphatic glands, trusting to
+radium or X-rays to kill any stray cells that may be set free or missed
+during the operation. The chances of cure simply depend on whether it
+is possible to remove the disease completely or not.
+
+The figures I have given are taken from a recent analysis of more
+than five hundred cases of cancer of the lip carefully followed up.
+Of cases in which there were no glands involved, ninety-one per cent.
+were cured: of those with glands only eighteen per cent. were cured.
+Now here is the point I want to emphasize. The average duration of
+all these cases was two and a half years before operation. It is
+impossible to devise any more radical operation, with a much lower
+death-rate than we at present obtain, and there is no other method
+which as yet produces better results than I have just quoted, but it
+_is_ possible to do away with that two and a half years of waiting and
+medicine. There is no reason for it but ignorance, neglect, stupidity,
+self-deception and fear.
+
+The example which I have just quoted is not an unusual one, nor, as I
+hope to show you later on, do the figures materially differ for cancer
+arising in other parts of the body. Cancer of the lip merely happens to
+be a convenient, and easily understood, peg upon which to hang my text.
+
+Cancer is practically always preceded by chronic irritation of some
+kind or other. There may be, and in fact are, other factors which enter
+into the problem, but there can be no doubt that in nearly all cases
+there is what may be called a precancerous stage, which, if adequately
+dealt with, will often prevent cancer appearing at all. It is moreover
+a longstanding chronic condition which, as a rule, gives rise to very
+little inconvenience on the part of the patient.
+
+After this _precancerous_ stage there appears what may be called _early
+cancer_, often indistinguishable to the naked eye from the original
+precancerous lesion, but giving rise to great suspicion in the eyes of
+the initiated on account of its hardness, and tendency to be fixed,
+and its resistance to treatment. Cancer in this stage can be cured,
+with results which will compare favourably with the cure of any other
+known disease (i.e., in about ninety per cent. of all cases) its cure
+simply depending on early diagnosis. This is a fact neither known nor
+appreciated by the general public, and until it is known by everybody,
+and these early stages are radically dealt with, we shall still be
+spending our time and money looking for new and miraculous cures for a
+condition which, in its very nature, is unlikely to be susceptible to
+any method of cure when its late stages are reached.
+
+The third stage is that in which the neighbouring lymph glands are
+involved. In this stage about thirty per cent. are incurable, but these
+figures are not of much help or comfort to any particular sufferer as
+they depend on the degree of involvement and the rapidity of growth.
+There is, in the vast majority of cases, no reason why it should ever
+reach this stage other than those causes which are within the control
+of the patient and his doctor.
+
+Lastly we get to a stage in which the disease is frankly inoperable,
+and generally speaking, only capable of relief by one palliative
+measure or other. About forty to fifty per cent. of all cases which
+reach the surgeon have already arrived at this stage, and it is to
+this fact that the generally hopeless attitude of everybody is to be
+attributed. It is only when this stage is reached that the patient
+has pain and symptoms which “wake him up,” and that he realises the
+calamity which has befallen him.
+
+The early signs of cancer may now be summed up as those of a lesion
+of some kind, extending over a number of years, giving rise to very
+little trouble or inconvenience, and followed by a small hard lump or
+ulcer. If the latter is present, it is often characterised by bleeding.
+Again, practically no symptoms. To find it we must _look and see_;
+often an operation involving practically no suffering and a very small
+mortality is necessary. But the penalties of failure to do this at the
+proper time are that ten per cent. of the population die of cancer.
+
+There are certain popular misconceptions about cancer which require
+correction. The first is that cancer is necessarily painful. This is
+responsible for much of the late diagnosis, operative mortality and the
+bad results. Only late cancer, and it would not be far wrong to say
+only _incurable_ cancer, gives rise to pain. If only pain were an early
+sign of cancer the whole aspect of the cancer problem would be changed.
+
+Another very widespread delusion productive of great harm is that
+cancer is constantly associated with _wasting_, and makes _rapid
+progress_. These two symptoms are constantly associated with the
+disease in its latest stages but are not seen at all in early cases.
+
+One frequently hears people say that cancer is contagious, and also
+that it is hereditary. These two popular conceptions probably have
+the same basis. As we have seen, cancer is a very common disease, and
+it would be strange indeed if, putting all question of relationship on
+one side, we were not to see it quite commonly occurring in one or more
+members of the same family, and if occasionally we did not find a house
+in which each successive occupant for some years had cancer. I will
+leave it to the mathematicians to work out the probability of cancer
+occurring more than once in any given family. The necessary figures are
+easily obtained from the Registrar-General’s office. As far as I know,
+there is nothing truly in the nature of what may be called _evidence_
+in support of either of these notions.
+
+Time after time people have described parasites of some kind as
+associated with cancer, but none of them has yet been made to answer
+to any of the tests necessary to establish anything more than a
+casual correlation. It may turn out to be that the causal agent in
+cancer formation is a parasite either visible under the microscope,
+or, what is more likely, belonging to the group of ultravisible, or
+filter-passing, organisms; but even if this be so, there are two
+other factors of immense importance, found so constantly associated
+with the disease, that their significance cannot be underestimated by
+anyone whose outlook is any wider than that of the mere purveyor of
+prescriptions.
+
+These two factors may be considered in a little more detail, as they
+are of importance with regard to the question of prevention. They are
+(1) the presence of an acid environment, and (2) what, for want of
+a better term, may be called chronic irritation. Whatever the prime
+cause may turn out to be, these can never be left out of account in any
+consideration of aetiology, and even if some specific cause is found,
+the discovery will not shake the validity of my thesis.
+
+For two thousand years people have speculated about the origin of
+cancer. Galen held a theory somewhat analogous to the present Chinese
+doctrine of the _yin_ and the _yang_; he taught, in essence, that some
+kind of “ch’i” had got at loggerheads with its fellow gases, and that
+the result was a general disturbance of bodily functions. Paracelsus
+thought that the salt balance of the body was upset, and textbooks
+still sometimes put this into modern medical terminology, saying that
+the balance of power between different types of cells is disturbed.
+This may or may not _describe_ what happens, but it is a long way from
+_explaining_ it.
+
+In the sixteenth and seventeenth centuries cancer was often referred to
+as an “act of God” in punishment for sin. For instance, cancer of the
+tongue was said to afflict those who spoke against the Church, a view
+that the Church, not always strictly scientific in interpretation of
+phenomena, did not discourage.
+
+Here is a translation which Sir D’Arcy Power has made from Paul
+de Sorbant, a German physician writing in 1672, in his _Universa
+Medicina_. “We saw”; he says, “an ulcer of the tongue degenerating into
+cancer in the noble baron Vertemali, which caused such a haemorrhage
+from destruction of the sublingual arteries and veins that the patient
+was suffocated. He recognised with great penitence that the cause of
+this cancer was a divine punishment because he had often abused the
+clergy.” Benetus, about the same time, in his book called _Medicinae
+Septentriniolanus Collatitia_, describes a case of what he calls
+“Tumor Linguae Miraculosa.” Here is a translation of part of it.
+“There was lately a certain baron who had a very poisonous tongue. He
+not only directed his jibes against all and sundry, but he kept his
+most venemous shafts for the clergy and those who devoted themselves
+to God’s service. He was caught at last in the very act, by a holy
+brother of good repute as he was pealing this cursed bell, who said
+to him: ‘Your foul tongue has overlong deserved that punishment from
+an offended God which it will shortly receive.’ The Baron went off
+undismayed, but a few days afterwards a small swelling began to grow
+on the side of his tongue. Little by little it increased in size until
+it became an inoperable cancer, and at length the tongue having become
+incurved, twisted and drawn back to his throat, miserably afflicted,
+but penitent and confessed, he was summoned before the Great Judge who
+calls his servants to a most strict account.”
+
+This may all seem very far away and out of contact with our present-day
+thought, but only two years ago a dear old lady sent to the Cancer
+Hospital Research Department two pages of closely written typescript,
+the gist of which was that she was withdrawing her usual annual
+subscription, as, after giving the matter a great deal of thought, she
+had come to the conclusion that cancer was caused by the consumption
+of alcohol. So she proposed to forward her usual subscription to the
+local Temperance Society which really was striking at the root of the
+problem! The Secretary wrote and pointed out that cancer is very common
+in cats who are strict prohibitionists! The old lady did not reply!
+
+Let us come back again from theory to fact, and consider some of the
+factors which we know constantly to be associated with cancer, and
+which we are justified in regarding as being, in many cases, more than
+predisposing causes.
+
+The most important of these is chronic irritation. We find that almost
+every cancer is preceded for a longer or shorter period by what may be
+called a precancerous condition. The more our knowledge increases the
+more we are finding out that this holds good.
+
+The commonest sites for cancer are the womb, the breast, and the
+stomach. These together account for more than sixty per cent. of all
+cancers, and far below them in frequency we find the tongue, the lip,
+and the bowel, and the various glands.
+
+Cancer of the womb is constantly preceded for many years by disease,
+palpable and curable, often the result of childbearing, and the part
+where it occurs is one bathed in an acid medium.
+
+Cancer of the breast also is constantly associated with preceding
+chronic inflammation, this condition itself producing, as one of its
+by-products, a highly acid substance, further to irritate the delicate
+cells already near the end of their tether. Mechanical irritation,
+beyond a doubt, is an important factor. Although in civilised countries
+the disease is distressingly common, in those countries where the
+breasts are habitually uncovered, cancer of this organ is extremely
+rare. The habitual friction of modern clothes predisposes cell-growth,
+infection from no matter what source is given a foothold, and after
+years of abuse, the cells lose the impulse to normal reaction and at
+last turn and slay their victim.
+
+There is evidence that about two-thirds of all the cases of cancer of
+the stomach originate in an old gastric ulcer, and the constant eating
+of hot food is perhaps enough to account for the remaining third. The
+delicate gastric cells, more abused than any other cells in the body,
+are bathed in a highly acid medium. It is no wonder that departure
+from their appointed path accounts for thirty per cent. of all cancers
+in men, and in women as well, if we except the two conditions just
+mentioned.
+
+In cancer of the kidney, the bladder, and the gall bladder, stones are
+nearly always present to initiate the irritation.
+
+In cancer of the tongue, syphilitic or other preceding conditions are
+nearly always there, whether it be the irritation from raw alcohol, hot
+tobacco smoke, or a broken tooth. It is interesting to note that, until
+syphilis appeared in Europe, cancer of the tongue was practically
+unrecorded in the existing literature. We have no need to go any
+further for examples of these precancerous irritative conditions. They
+are all curable or removable, but, as they do not as a rule give rise
+to acute painful symptoms, severely inconveniencing the patient, they
+are difficult to treat, and the unfortunate patient is told to _wait
+and see_, and is given medicine which may for a while relieve, but
+which――alas!――seldom has a chance to cure, or to prevent the fate which
+is slowly overtaking him.
+
+So far the evidence which has been brought before you, that chronic
+irritation has a causal connection with cancer, has been of a
+circumstantial nature: it has often enough been found in what we may
+call suspicious circumstances, but that does not prove that by itself
+it can directly cause the disease. If a man is seen hanging about the
+place where a burglary has been committed, it does not prove that he
+participated in it. He may be a burglar, or he may be what lawyers
+call an accessory before the fact, and before we can feel reasonably
+sure that he is a guilty party we must, unless we can actually see him
+committing the crime, find that whenever he is present, and he has a
+chance, a burglary takes place.
+
+Now in scientific investigation we can do what in ordinary life is
+not possible; we can take our burglar, arrange a set of suitable
+circumstances and see what happens and with what degree of regularity
+thefts occur. In the last four or five years something like this has
+been done on a large scale with cancer, and a large body of evidence is
+accumulating which suggests that, given suitable circumstances, chronic
+irritation will produce cancer with a fair degree of regularity, at
+least in some places. If it will do so in some places there is no
+reason to doubt that, under circumstances which for the moment we do
+not quite understand, it will do so in all the places where cancer is
+found.
+
+That this is so has not yet been completely proved, but I think there
+is a good deal of evidence along this line. It has been known for a
+great number of years that certain skin cancers are constantly found
+in people whose occupations necessitate their skin being in contact
+with certain chemical irritants. For instance, the workers in shale
+oil are often afflicted with cancer of the skin. In the spinning
+industry, when reaching over to deal with the machinery, a place on
+the worker’s leg is always rubbing up against an oily spindle. This
+process goes on for years at the same spot, and these people are found
+frequently to get cancer, beginning at the irritated place. Some
+aniline dyes are excreted in the urine, and growths of the bladder are
+very frequent in aniline workers. In India, some native tribes carry
+little metal boxes containing charcoal next to their skin in order to
+warm themselves, and the warmed spot frequently becomes the seat of
+a malignant ulcer. Further, in chimney-sweeps, whose skin is always
+more or less impregnated with carbon, we find that cancer frequently
+develops in those places where the soot is difficult to wash completely
+away and often is not cleaned off for years at a time. Finally, we
+have the well-known examples of skin cancer among X-ray workers, and
+mouth-cancer in those who chew betel nut.
+
+Now it is just this type of cancer that we have the opportunity to
+imitate in the laboratory. Dr Leitch, of the Cancer Hospital, has taken
+rats, guinea-pigs and rabbits; and, day after day for months, soot,
+tar, oils and all the irritants he could think of were respectively
+painted on some selected part of their bodies. At the Cancer Hospital
+he started using tar to paint on the under surface of the bodies of
+white mice. This was done every morning for several months, and, in
+a large percentage of cases, small warts were produced. The fate of
+these warts varied; some of them disappeared, but others progressed
+to the formation of true cancer. The results of these experiments made
+it extremely probable that the irritants were the direct cause of the
+cancer. Of course it is not _proved_, for it is possible to assume that
+there is some ubiquitous “other cause”, only waiting till the tissue
+resistance is lowered enough by the irritants to get its chance to act.
+Another interesting fact, which transpired as the result of this work,
+is that some of the animals from whom the warts disappeared developed
+cancer a month or so subsequent to the disappearance, thus showing that
+the _predisposition_ to cancer formation is acquired long before the
+growth actually appears.
+
+In human beings, the process of cancer formation in response to
+chemical irritants takes much longer (often twenty to thirty years),
+and is preceded by much the same sort of preliminary skin reaction as
+in animals.
+
+In looking for a proximal cause for cancer production, we should not,
+I think, look for a common cause in all cases, but should try to find
+something or _anything_ which will produce the necessary previous
+irritation.
+
+It has not, I think, been established beyond a doubt that chronic
+irritation is the _sole_ exciting cause of cancer――this in the nature
+of things would be very difficult to prove――but it has been shewn that
+its presence strongly predisposes to new growth formation.
+
+The problem which now arises is that of how we are going to put this
+knowledge we have gained to practical use in the prevention of cancer.
+In order to solve this we will consider in some detail the three
+commonest cancers met with, namely cancer of the breast, the womb and
+the stomach, and we will see how the problem applies to them.
+
+Now in cancer of the breast we have this outstanding fact that,
+almost all the cases show for some years beforehand obvious signs of
+chronic inflammation of the breast, and in nearly all of them this
+precancerous stage can be seen, when they are examined microscopically.
+
+Obviously this is the time to deal with the disease; and the way to
+do so is systematically to examine microscopically (by a procedure
+in itself devoid of all risk, except the very small one due to
+the administration of a general anaesthetic), every _doubtfully_
+malignant breast, afflicted by chronic inflammation. This may seem a
+revolutionary thing to say; but if we set ourselves to deal with this
+plague in the logical manner that we employ when we sit down to deal
+with any other pest, and, if we follow all the facts known to their
+inevitable conclusion, we are driven to it, and we shall see that there
+is no other course open to us but to _deal in a wholesale manner with
+the precancerous condition_. To do this we shall have to undertake a
+long campaign of education. One of the leading authorities on breast
+cancer in America, did undertake such a campaign in his own district,
+with the result that, from the enthusiastic propaganda of one man, the
+proportion of precancerous to fully developed malignant lesions which
+appeared at his clinic rose in six years by thirteen per cent. In
+twenty years the proportion of fully developed cancer to pre-malignant
+lesions dropped from ninety to seventy-eight per cent.
+
+I am quite sure of the fact that the adoption of this proposal would
+mean operations upon a number of breasts which would never become
+cancerous, but, so far as I can see, we cannot help this, any more
+than we can help vaccinating a large number of people who will never
+have small-pox, or, when we isolate diphtheria contacts, can we help
+disturbing also a large number of people who will never get diphtheria.
+The public have been educated to regard these precautions as natural
+and proper, and as a rule raise no objections to their being carried
+out. Dr Bloodgood, to whose educational work I have just referred,
+states that if any woman could be kept under sufficiently close
+observation, she could be practically assured against death from
+cancer. I think every other surgeon of experience would agree with him.
+
+So much for prevention and the precancerous lesions. Let us come to
+the question of the cure. Here we find that the chances of cure in
+any particular case simply depend on the stage at which the case
+appears for treatment. We can for convenience divide cases into two
+groups; those which have glands involved and those which have not. By
+this I mean those which have glands so grossly involved that they are
+appreciable to the touch. Again quoting Dr Bloodgood, it is found that
+of those cases with gland involvement, twenty-three per cent. only
+are cured after seven years but, of those without gland involvement,
+sixty-five per cent.
+
+Now, here is the fact which ought to rouse us to action: the average
+duration of the disease in these cured cases was nine months――_nine
+precious months_ in which that remaining thirty, or forty, per cent.
+might have been cured _if they had only been treated earlier_. Or, if
+they had been properly examined still earlier by a trained person, the
+disease could have been dealt with earlier with a still better chance
+of ultimate cure, and it is Dr C. H. Mayo who has said that there is no
+reason on earth why about ninety-five per cent. of all cases of cancer
+of the breast cannot be permanently cured.
+
+So far we have spoken in detail of cancer of the breast but, when we
+come to deal with cancer of the uterus, we shall find that the facts
+are almost exactly analogous, only that the results of indecision and
+delay are even more deplorable. We find that, by the time they come for
+treatment, about half the cases are quite incurable, and those which
+are operable are as a rule a great deal further advanced than those of
+cancer of the breast. In spite of this we find that out of two hundred
+consecutive cases no less than forty per cent. were cured; that is to
+say, had no recurrence within seven years. All the cases which were
+operated on had had quite definite symptoms for six months. In other
+words, the patient herself should have come for examination six months
+before she did, and if she had been examined in the course of a proper
+routine, the disease could have been discovered far earlier than was
+the case.
+
+Quite recently, a report of a series of cases has been published by
+Professor Faure, a distinguished French gynæcologist, which so exactly
+illustrates my views that perhaps I may be forgiven for making use of
+it. Faure cut ninety-six cases of cancer of the uterus and has divided
+them into good cases, mediocre cases and bad cases. It is significant
+that there were only twenty-one “good” cases, thirty-five “mediocre”
+cases and forty “bad” cases. The good cases are what I have called
+early cases, the mediocre cases correspond to moderately advanced
+cancer, and the bad cases to those which are on the border line
+between operability and non-operability. His total results approximate
+very nearly to most other published lists but their analysis is very
+significant. Of the good cases there was one operative death; of the
+remainder seventy-five per cent. were cured and twenty-five per cent.
+recurred.
+
+Of the mediocre cases there was an operative mortality of 8.57%. Of
+those surviving the operation 62.5% were cured and 37.5% recurred. In
+the bad cases there was a post-operative mortality of 22.5%: only six
+were cured and twenty-five recurred. That is to say, respectively,
+19.35% were cured and 80.65% recurred. These figures tell their own
+tale.
+
+With this hopeless condition of affairs it is no use saying that the
+results of surgery are bad. They are; but it is not the fault of
+doctors, or the methods at their disposal; it is the misfortune of the
+patient that her lack of proper education must bear the blame.
+
+Cancer of the uterus is in many cases preceded by precancerous lesions,
+all amenable to various kinds of treatment. Again, the only way to deal
+with it is not to wait and see whether a woman has got cancer but to
+look and see that she has not. Until this is our attitude, the results
+are not likely to be much better, whatever the means at our disposal
+for its cure.
+
+Finally, turning to another great group of cancers which make up
+thirty per cent. of all in men (and in women too, if we exclude the
+two previously mentioned types), we find exactly the same condition of
+affairs.
+
+In two out of every three cases of cancer of the stomach there is
+evidence that it has arisen in an old ulcer, and Dr Mayo has suggested
+that eating hot food may account for the remaining third. It is
+moreover the experience of all surgeons who systematically submit all
+gastric ulcers upon which they operate to microscopic examination,
+that about twenty per cent. of them all are malignant.
+
+We have before us the plain fact that from ten to twenty per cent. of
+all chronic ulcers which have come for surgical treatment are already
+malignant and can only be cured by a complete removal. Another fact
+also requires taking into the most serious consideration, and this
+is, that it is the considered opinion of by far the large majority of
+experienced surgeons that exploration and some form of operation is
+the best treatment for every case of chronic gastric ulcer which has
+recurred once, or at least twice, after a thorough course of medical
+treatment. (The term “chronic gastric ulcer” is here used in its
+strictest scientific sense, and by it is meant an ulcer whose diameter
+in any one direction is more than a centimeter, and whose edges are
+hard and thickened). In spite of this, a distinguished surgeon recently
+put on record that every case of gastric ulcer upon which he operated
+had on an average been “cured” nine times. Why is this? The reason
+is clear. In nearly every case the symptoms of gastric ulcer (and,
+remember! twenty per cent. are already cancerous) can be relieved for
+a time by palliative treatment, when once again the deluded patient
+thinks he is cured.
+
+There is no need for me to point the lesson from this. I have put
+forward the facts, and every one can draw his own conclusions. There is
+only one gleam of hope that I can see on the horizon, and that is, in
+dealing with the disease in an early stage by radical measures, and, in
+twenty per cent. of the cases, thus combining prevention with cure.
+
+Again, we must alter our attitude. We must look and see, not merely
+“dope” and see! Once symptoms of this disease have recurred after
+efficient treatment, there is only one good reason for not looking and
+making certain, and that is when the risks of looking exceed those of
+the lesion being malignant――that is to say, somewhere between ten and
+twenty per cent. At present, the risks of looking are about one in a
+thousand, and the risks of removal of a cancer about three per cent.,
+taking all cases, most of which are at an advanced stage. The operative
+risks of earlier cases are less than this, and to this must be added
+about a two per cent. risk of a further operation being necessary――in
+all, not exceeding five per cent.
+
+I realise that the adoption of this policy will mean a certain number
+of otherwise avoidable operations. I know that it will mean operating
+on a few cases that would otherwise get better by themselves, or by
+other means. But until it is adopted, there is, as far as I can see,
+no prospect of reducing the death-rate from cancer of the stomach. For
+so long as indiscriminate medicine-taking has precedence over exact
+methods of investigation and treatment, so long will cancer of the
+stomach continue to make up thirty per cent. of all cancers. Again
+the question is largely out of the hands of the doctors. As long as
+patients come to a doctor wanting “a bottle of medicine, doctor, just
+to help me carry on”, so long will they get it, as the doctor finds it
+hard to refuse. For he knows the patient will go from doctor to doctor
+till he gets what he wants.
+
+I have dealt in some detail with the three commonest types of cancer,
+but the same arguments apply to all. The problem is not so much how to
+cure cancer――so much can, and is being constantly done by one method or
+another――but how to educate people so that we can get hold of cancer
+early. The problem is one of diagnosis, and is therefore to be solved
+by education and courage, not by hesitation and fear.
+
+No statement of the cancer problem would be complete without some
+mention of two methods of treatment which have recently come much to
+the fore: namely, the use of X-rays and of radium.
+
+To give any really useful account of these is very difficult, as no
+really satisfactory groups of cases have been published, and one can
+only speak from one’s own experience and that of colleagues who have
+been working with them.
+
+The action of both these methods of treatment is in essence the same.
+It has been found that X-rays and radium have the power of destroying
+living tissue when such is exposed to their action for varying lengths
+of time. Fortunately, cancerous tissue is destroyed before normal
+healthy tissue, and it is the aim of the treatment to expose the growth
+to that dosage of rays which will kill the malignant tissue but just
+fall short of doing harm to the normal tissue. Sometimes this is more
+easily done with X-rays and sometimes with radium; it all depends on
+the position of the growth. This all sounds very attractive, and one
+would think that, on the surface of things, with such a weapon at our
+disposal, every case could easily be efficiently dealt with. But, like
+many other superficially attractive things, it is found on further
+examination to have its drawbacks. Although a proper dose of X-rays
+will kill cancer tissue, a smaller dose will stimulate it to further
+action. Further, these rays have, comparatively speaking, a very low
+penetrating power. They are absorbed and rendered inactive by thin
+layers of metal, of skin or of other tissue.
+
+Now, as has already been explained, a malignant growth, as well
+as extending superficially, tends to spread very deeply and also
+to involve neighbouring structures, and when X-rays or radium are
+applied to it, we find that in some cases it will deal with the more
+superficial parts of the growth but leave the deeper parts untouched,
+or even more active than before. All kinds of methods have been tried
+to get over this, such as burying radium in the substance of the
+growth, and using very big doses, applied to various aspects of the
+growth, but, so far, although there have been some very encouraging
+results, the problem has not been solved.
+
+As has been said, it is extremely difficult to estimate the exact value
+of this treatment, as no figures are of any value till _seven years_
+at least have elapsed after treatment, and no such figures have been
+published. There can be no doubt, however, that an occasional case has
+been cured, but it is the experience of all that the results of radium
+treatment do not approximate in any way to the percentage of cures
+obtained by surgery, even in those types of cancer which react best to
+X-rays or radium.
+
+Dr Knox, of the Cancer Hospital, London, who has had much experience
+of high tension X-rays, says that the treatment of malignant disease
+by X-rays has not yet reached that stage where it ought to be given to
+any operable case instead of an operation. I think this opinion may be
+regarded as an authoritative statement of the situation as it is at
+present.
+
+This is not all, however; X-rays and radium have a very important place
+in the treatment of cancer, and as far as we can see at present, the
+future hope lies in a judicious combination of one or the other of
+these with surgery, for early operable cases, and their prolonged and
+intensive use in those advanced cases which cannot be removed by other
+means. A few advanced cases have even been rendered operable by this
+means.
+
+In combination with surgery this method has its very greatest use in
+the prevention of superficial recurrences. In every operation, in
+spite of the greatest care, it is impossible to avoid the setting free
+into the tissues of a few cancer cells which may grow later into a
+recurrence. Post-operative radiation bids fair to abolish this type
+of recurrence, which formerly accounted for a good percentage of all
+recurrences.
+
+From time to time many methods have been brought forward which have
+for a little while promised well, but so far none of them has produced
+results in any way comparable with those obtained by complete removal
+of the growth by surgical means.
+
+I have not dealt with these in any detail here because, whether
+ultimately we use drugs, surgery, violet leaves or any of the recently
+popularised methods of “taking thought” to cure the disease, the main
+point of my thesis will still hold good, and that is, that by far the
+most important factor in the cure of the disease is that of _early
+diagnosis_. This lies in the hands of the public far more than in those
+of the medical profession. If the public want early diagnosis they will
+get it, when they insist on it, just as they get anything else they
+insist on, from self-government to prohibition, no matter how good or
+bad it may be for them.
+
+Briefly stated, most cases of early cancer are curable, and the
+diagnosis of early cancer is only to be made by _looking_ instead of
+_waiting_. On these facts, certain constructive proposals can be based.
+They are so simple that they are not likely to be heeded for some time
+to come, for the public has always preferred Abana and Pharpar, rivers
+of Damascus, to washing in Jordan, and I suppose always will do, till
+we reach a more enlightened age.
+
+Nevertheless I believe it is true, and without exaggeration, to say
+that about ninety per cent. of all cases could be cured or prevented if
+the following statements were accepted.
+
+If all persons over forty years of age were routinely examined once
+every six months to see that they had not cancer, or a precancerous
+condition, and if these when found were promptly dealt with, then
+cancers of the rectum, tongue, lip, breast, skin and uterus would cease
+to be the plagues they are at present.
+
+Similarly, if every patient who had taken more than a pound of bismuth
+to relieve gastric pain were routinely explored to see that cancer
+or gastric ulcer did not exist, the large majority of growths in this
+region would be either prevented or cured. Similar rules can easily be
+devised to deal with cancers arising in other parts. What is wanted
+is a change of attitude on the part of everyone concerned. After all,
+a fortnight in bed, with forty-eight hours of discomfort, is not too
+great a price to pay for freedom from this disease, and, with proper
+examination, even this would be unnecessary in most cases.
+
+Every intelligent person is aware that, in order to ensure freedom
+from dental disease, it is necessary to have his teeth examined every
+six months, and to have small lesions dealt with in their very early
+stages. All have come to this conclusion because they know that
+neglected dental disease means pain; and they now look to see that
+their teeth are normal, instead of waiting for a toothache to come.
+It is true that there are still some of our weaker brethren who still
+wait till they get toothache before they visit the dentist; and for
+them there is nothing to be done. In the same way, if we wait for the
+advanced signs of cancer to develop, the position with regard to its
+cure will remain approximately what it is to-day.
+
+The education of the public up to this pitch is by no means an
+impracticable proposal. The position with regard to appendicitis is
+very much the same as that of cancer. What has been done in the case
+of appendicitis? The mortality is in proportion to the number of hours
+during which the disease has existed. Twenty years ago appendicitis
+was responsible for a large number of deaths. During 1919 and 1920
+there was, in a large London General Hospital, only one death from
+appendicitis, and yet there were at least 5 cases dealt with every
+week. This improvement is entirely the result of education of the
+public and their doctors. They know that to be cured operation must be
+early, and so we no longer wait to see whether the patient is going to
+die; if we suspect it, we look and see whether it is present or not.
+True, we remove unnecessarily a fair number of appendixes but, by so
+doing, we purchase, for a much larger number of people, immunity from
+death by this disease. When exactly the same principle is applied to
+cancer we shall be in a position to be a great deal more satisfied than
+we are at present.
+
+One of the most successful ways of treating a patient with
+fixed ideas is by the use of _explanation_ combined with strong
+_counter-suggestion_. This is the method of psycho-analysis and
+hypnotism. No patient is more susceptible to this kind of treatment
+than that capricious lady, Public Opinion. If we want to realise the
+ideals put forward in the early part of this essay, we must mobilise
+all our resources: the Press; the Platform; the Consulting Room: for
+a prolonged and intensive campaign against this black spot on our
+civilization.
+
+
+
+
+                         TO-DAY AND TO-MORROW
+
+
+        _DAEDALUS: or Science and the Future_
+            By J. B. S. Haldane. 5th imp.
+
+        _ICARUS: or The Future of Science_
+            By Hon. Bertrand Russell, F.R.S. 3rd imp.
+
+        _THE MONGOL IN OUR MIDST_
+            By F. G. Crookshank, M.D.
+
+        _WIRELESS POSSIBILITIES_
+            By Prof. A. M. Low
+
+        _NARCISSUS: or The Anatomy of Clothes_
+            By Gerald Heard
+
+        _TANTALUS: or The Future of Man_
+            By Dr F. C. S. Schiller
+
+        _THE PASSING OF THE PHANTOMS_
+            By Prof. C. J. Patten
+
+        _PERSEUS: of Dragons_
+            By H. F. Scott Stokes
+
+        _LYSISTRATA: Woman’s Future and Future Woman_
+            By A. M. Ludovici
+
+        _CALLINICUS: a Defence of Chemical Warfare_
+            By J. B. S. Haldane
+
+        _QUO VADIMUS?: Glimpses of the Future_
+            By E. E. Fournier d’Albe
+
+        _THE CONQUEST OF CANCER_
+            By H. W. S. Wright, M.S., F.R.C.S.
+
+        _WHAT I BELIEVE_
+            By Hon. Bertrand Russell, F.R.S.
+
+        _THE FUTURE OF SEX_
+            By Rebecca West
+
+        _THE EVOCATION OF GENIUS_
+            By Alan Porter
+
+        _HYPATIA; or Woman and Knowledge_
+            By Dora Russell (Hon. Mrs Bertrand Russell)
+
+        _ÆSCULAPIUS: or Disease and The Man_
+            By F. G. Crookshank, M.D.
+
+                    _Other Volumes in preparation_
+
+                    KEGAN PAUL & CO., LTD., LONDON.
+
+
+                   *       *       *       *       *
+
+
+  Transcriber’s Notes:
+
+  ――Text in italics is enclosed by underscores (_italics_).
+
+  ――Punctuation and spelling inaccuracies were silently corrected.
+
+  ――Archaic and variable spelling has been preserved.
+
+  ――Variations in hyphenation and compound words have been preserved.
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK THE CONQUEST OF CANCER ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

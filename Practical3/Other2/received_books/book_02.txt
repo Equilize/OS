@@ -1,0 +1,163 @@
+Title: Text book of veterinary medicine, Vol. 2 (of 5)
+
+
+Author: James Law
+
+Release date: October 13, 2023 [eBook #71874]
+
+Language: English
+
+Original publication: Ithaca: Published by the author, 1902
+
+Credits: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TEXT BOOK OF VETERINARY MEDICINE, VOL. 2 (OF 5) ***
+
+
+
+
+                               TEXT BOOK
+                                   OF
+                          VETERINARY MEDICINE
+
+
+                                   BY
+
+                         JAMES LAW, F.R.C.V.S.
+
+ Director of the New York State Veterinary College Cornell University,
+                             Ithaca, N. Y.
+
+                                VOL. II
+
+       DISEASES OF THE DIGESTIVE ORGANS—LIVER—PANCREAS—AND SPLEEN
+
+
+                                 ITHACA
+                        PUBLISHED BY THE AUTHOR
+                                  1900
+
+
+
+
+                                                            Copyright by
+                                                             JAMES LAW
+                                                               1900
+
+
+      PRESS OF
+  ANDRUS & CHURCH
+    ITHACA, N. Y.
+
+
+
+
+                          VETERINARY MEDICINE.
+
+
+
+
+                   DISEASES OF THE DIGESTIVE ORGANS.
+
+  Second in importance to pulmonary complaints in solipeds; equal in
+  ruminants. Extent of digestive organs and character of food, in
+  carnivora, herbivora, and omnivora. Ruminant’s stomachs. Gastric
+  fermentation. Foreign bodies. Torpor. Unwholesome fodder.
+
+
+In the horse these maladies are only second in importance to those of
+the respiratory organs, while in ruminants they are equally frequent and
+important. The varying susceptibility of the digestive organs to disease
+in different families and the special proclivity of different parts of
+these organs may be, in great part, explained by the great variation in
+the food, by the relative extent of the gastro-intestinal surface, and
+by the amount of work devolving on the respective viscera.
+
+In =carnivora= the entire gastro-intestinal surface is little more than
+half the area of the skin, for their rich animal food does not require a
+prolonged retention and an elaborate series of intricate processes to
+insure digestion and absorption. This system of organs is accordingly
+less liable to disorder in carnivora than in herbivora and omnivora. Add
+to this that the carnivorous stomach is very capacious relatively to the
+intestine, that the digestion of the great bulk of the food (nitrogenous
+elements) is nearly completed in this viscus, and that the contents of
+this organ are easily and completely discharged by vomiting whenever
+they prove irritating, and we have ample explanation of the comparative
+immunity of these animals from digestive disorders.
+
+The =herbivora= stand at the opposite extreme, the gastro-intestinal
+surface being over double the area of the skin in the horse, and nearly
+three times that extent in the ox. The hard, fibrous and comparatively
+innutritious vegetable food of these animals necessitates its prolonged
+retention in the alimentary canal in order to the completion of
+digestion and the absorption of the nutritive constituents. Hence the
+great liability of the herbivora to diseases of the digestive organs.
+
+=Omnivora= occupy a place intermediate between these two classes, as
+regards both the nature of the food and the extent of surface of the
+alimentary canal, and they are in similar ratio little liable to
+digestive disorders. They have besides in common with carnivora a great
+facility in the rejection of irritant matters by vomiting, and in thus
+protecting themselves against gastric and intestinal disorders.
+
+A fair idea of the area of the intestinal surface may be given by
+stating the length of the canal relatively to that of the body:—in the
+dog : : 6 : 1, in the rabbit : : 10 : 1, in the ass and mule : : 11 : 1,
+in the horse : : 12 : 1, in swine : : 14 : 1, in the ox :: 20 : 1, and
+in the sheep : : 27 : 1. The calibre of the intestine varies however and
+with it the capacity. Thus in the relatively shorter intestine of the
+horse, the capacity is much greater in ratio with the size of the animal
+than is the relatively much longer intestine of the pig. The ox’s
+intestine though twice the length of that of the horse has little more
+than half the capacity.
+
+Among =herbivora= the monogastric (horse, ass, mule), and polygastric
+(ruminants) animals manifest varying pathological susceptibility
+according to the relative development of the different digestive viscera
+and the habitual character of their food. The horse and other large
+solipeds have small stomachs (16 qts.) and capacious intestines (196
+qts.). Digestion is restricted in the stomach and largely carried on in
+the spacious bowels. The small stomach requires to be frequently
+replenished in moderate amount, but, if this is secured, its liability
+to disease is slight while that of the intestines is very considerable.
+In the ox the stomachs have a total capacity of 252 qts., while that of
+the intestines averages 103 qts. In this animal the capacious and hard
+working stomach is a frequent seat of disorder, while the comparatively
+small intestines are to a large extent exempt. The small stomach of the
+horse is easily overloaded and disordered or paralyzed by an unusually
+full feed of grain when hungry, or one of some specially appetizing
+fodder, and the case is serious, as relief can rarely be obtained by
+vomiting. For the same reason fermentation of the gastric contents with
+evolution of gas and tympany usually proves fatal to the horse since
+relief by eructation is too often impossible. Cattle are fitted to live
+in damp localities where the cloven foot prevents sinking and getting
+bogged, and where they may draw in with the tongue a full mouthful of
+coarse herbage which they swallow with little mastication or admixture
+with saliva. This lodges in the first two stomachs, and if, from any
+cause, rumination is impaired, or suspended, it finds itself in
+conditions especially favorable to fermentation. The food too, as in the
+case of frosted roots, wet clover or partially ripened grain, etc., is
+often charged with ferments (bacteria) in a state of great vital
+activity, and hence the frequent tympanies of the ox. The ruminant is no
+less liable than the soliped to overload the stomach, and though the
+return of food from the first two stomachs to the mouth is a normal
+process, this is promptly arrested by the supervention of paresis in the
+overloaded and overdistended organs. This overdistension further tensely
+stretches and closes the lips of the œsophagean opening. The rapid
+swallowing of the food, with only one or two strokes of the teeth for
+each morsel, renders the large ruminant more liable to take in poisons,
+pins, nails and other injurious bodies, especially when hunger and the
+blunting of the sense of smell have been brought on by traveling on
+dusty roads. Again the large ruminants, and especially cows are wont to
+while away the tedious hours by chewing and unwittingly swallowing
+pieces of leather, cloth, bones, iron, etc. Once more the third stomach
+in which the food is compressed and triturated between the multiple
+folds, is normally comparatively dry, and is liable under dry, fibrous,
+heating or stimulating aliment, or in case of fever, to dry up in part
+or in whole, and to derange the whole process of digestion.
+
+All herbivora are liable to disease from unwholesome fodder and the
+resulting affection may prove epizootic in connection with unfavorable
+seasons, or more local, from faulty cultivation.
+
